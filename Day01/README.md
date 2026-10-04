@@ -1,6 +1,6 @@
 **LeetCode 1689: Partitioning Into Minimum Number Of Deci-Binary Numbers**
 **Problem Statement:**
-A deci-binary number is a number that contains only digits 0 and 1.
+A deci-binary number is the number that contains only digits 0 and 1.
 
 You are given a decimal number n as a string.
 Return the minimum number of positive deci-binary numbers needed so that their sum equals n.
